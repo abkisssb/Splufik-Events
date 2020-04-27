@@ -18,3 +18,12 @@ Tech stack:
 - Google cloud
 - Parceljs
 - Imgbb - image hosting
+
+Main milestones (at least 3) that help you stay on track
+- Create clickable prototype using adobe XD
+- Item 2 
+- Item 3
+
+Link to your Trello/Asana project board with first user stories -> here
+
+There should be at least some general stories (epics) describing what needs to be done
