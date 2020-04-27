@@ -20,10 +20,17 @@ Tech stack:
 - Imgbb - image hosting
 
 Main milestones (at least 3) that help you stay on track
-- Create clickable prototype using adobe XD
-- Item 2 
-- Item 3
+- By May 4th, 2020: Create clickable prototype.
+- By May 18th, 2020: Frontend development
+- By May 25th, 2020: Backend development 
+- By June 1st, 2020: Testing 
 
-Link to your Trello/Asana project board with first user stories -> here
+Schedule:
+- Create clickable prototype: April 28 - May 4th, 2020
+- Frontend development: May 4th - May 18th, 2020
+- Backend development: May 18th - May 25th, 2020
+- Testing: May 25th - June 1st, 2020
 
-There should be at least some general stories (epics) describing what needs to be done
+Asana project board link:
+https://app.asana.com/0/1172895009083417/list
+
