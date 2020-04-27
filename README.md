@@ -20,6 +20,9 @@ Tech stack:
 - Parceljs
 - Imgbb - image hosting
 
+Protype:
+- Adobe XD
+
 Main project milestones: 
 - By May 4th, 2020: Create clickable prototype.
 - By May 18th, 2020: Frontend development
