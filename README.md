@@ -5,11 +5,11 @@ This is an event planner web application where users can see catalogue of event 
 Once chosen, they can add more specifications; we will get it in the admin panel, generate their bill and then commence the event planning. This is somewhat similar to e-Commerce.
 
 Team Members:
-Abiola Taofeek Rashidi
-Chizoba Osorachukwu Orakwue
-Emmanuel Onah
-Ifeanyi Emmanuel Akujuobi
-Peter Owusu Addo
+- Abiola Taofeek Rashidi
+- Chizoba Osorachukwu Orakwue
+- Emmanuel Onah
+- Ifeanyi Emmanuel Akujuobi
+- Peter Owusu Addo
 
 Tech stack:
 - Html
