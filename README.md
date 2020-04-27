@@ -20,7 +20,7 @@ Tech stack:
 - Parceljs
 - Imgbb - image hosting
 
-*Main project milestones*: 
+Main project milestones: 
 - By May 4th, 2020: Create clickable prototype.
 - By May 18th, 2020: Frontend development
 - By May 25th, 2020: Backend development 
